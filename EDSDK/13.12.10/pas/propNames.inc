@@ -1,0 +1,19 @@
+'$ffff = Unknown;               $0002 = ProductName;           $0004 = OwnerName;             $0005 = MakerName;             ' +
+'$0006 = DateTime;              $0007 = FirmwareVersion;       $0008 = BatteryLevel;          $0009 = CFn;                   ' +
+'$000b = SaveTo;                $000c = CurrentStorage;        $000d = CurrentFolder;         $0010 = BatteryQuality;        ' +
+'$0015 = BodyIDEx;              $0020 = HDDirectoryStructure;  $0100 = ImageQuality;          $0102 = Orientation;           ' +
+'$0103 = ICCProfile;            $0104 = FocusInfo;             $0106 = WhiteBalance;          $0107 = ColorTemperature;      ' +
+'$0108 = WhiteBalanceShift;     $010d = ColorSpace;            $0114 = PictureStyle;          $0115 = PictureStyleDesc;      ' +
+'$0200 = PictureStyleCaption;   $0800 = GPSVersionID;          $0400 = AEMode;                $0401 = DriveMode;             ' +
+'$0402 = ISOSpeed;              $0403 = MeteringMode;          $0404 = AFMode;                $0405 = Av;                    ' +
+'$0406 = Tv;                    $0407 = ExposureCompensation;  $0409 = FocalLength;           $040a = AvailableShots;        ' +
+'$040b = Bracket;               $040c = WhiteBalanceBracket;   $040d = LensName;              $040e = AEBracket;             ' +
+'$040f = FEBracket;             $0410 = ISOBracket;            $0411 = NoiseReduction;        $0412 = FlashOn;               ' +
+'$0413 = RedEye;                $0414 = FlashMode;             $0416 = LensStatus;            $0418 = Artist;                ' +
+'$0419 = Copyright;             $0436 = AEModeSelect;          $0444 = PowerZoom_Speed;       $0500 = Evf_OutputDevice;      ' +
+'$0501 = Evf_Mode;              $0502 = Evf_WhiteBalance;      $0503 = Evf_ColorTemperature;  $0507 = Evf_Zoom;              ' +
+'$0508 = Evf_ZoomPosition;      $050a = Evf_Histogram;         $050b = Evf_ImagePosition;     $050c = Evf_HistogramStatus;   ' +
+'$050e = Evf_AFMode;            $0510 = Record;                $0515 = Evf_HistogramY;        $0516 = Evf_HistogramR;        ' +
+'$0517 = Evf_HistogramG;        $0518 = Evf_HistogramB;        $0540 = Evf_CoordinateSystem;  $0541 = Evf_ZoomRect;          ' +
+'$0545 = Evf_ImageClipRect;     $0550 = Evf_PowerZoom_CurPosition; $0551 = Evf_PowerZoom_MaxPosition; $0552 = Evf_PowerZoom_MinPosition; ' +
+'$0601 = DC_Strobe;             ';

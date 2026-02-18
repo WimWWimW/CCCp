@@ -1,5 +1,9 @@
 # CCCp
 Canon Camera Command Program based on EDSDK
+-------------------------------------------
+Since I have stopped using Windows, 
+this projtect is no longer maintained.
+-------------------------------------------
 
 This is the full and working Delphi source to command a canon DSLR from your computer. Working functions include:
 
